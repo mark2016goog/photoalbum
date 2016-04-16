@@ -56,3 +56,6 @@ See package description or project website.
 Paul Buetow - <http://photoalbum.buetow.org>
 
 =cut
+
+
+photoalbum 使用 ImageMagick 来生成一系列的 HTML 页面相册，它只需要一个包含图片的输入目录（可以包括多个子目录），就可以输出一个静态的 ./dist 目录，其中有分布在静态网络服务器上的，包括缩略图的静态的 HTML 页面。
